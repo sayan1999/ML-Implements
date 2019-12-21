@@ -1,0 +1,2 @@
+# Polynomial Regression
+link=https://www.kaggle.com/kumarajarshi/life-expectancy-who/download/ufwaiBHLhTtBAOiQqWcV%2Fversions%2F4KLppdkCaXLoOJwOWdlV%2Ffiles%2FLife%20Expectancy%20Data.csv?datasetVersionNumber=1
